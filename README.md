@@ -1,5 +1,5 @@
-# Skincare-survey for my freeCodeCamp certification
-My first every fully written code. My first project towards my CSS certification.
+# Skincare-survey 
+My first every fully written code. This was my first ever independent project towards my CSS certification. It is a simple HTML and CSS web-page.
 
 # What i learned:
 1. How to use inputs and the basics of CSS web-page interactions
