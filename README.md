@@ -22,5 +22,5 @@ Here are the requirements for this project:
 15) Inside the form element, you can select several fields from a series of checkboxes, each of which must have a value attribute
 16) Inside the form element, you are presented with a textarea for additional comments
 17) Inside the form element, you are presented with a button with id of submit to submit all the inputs<img width="960" alt="2023-02-23 (8)" src="https://user-
-<img width="960" alt="2023-02-23 (8)" src="https://user-images.githubusercontent.com/124333751/220804569-fe3a9679-688c-4653-bdc7-d85110de1a3e.png">
-<img width="960" alt="2023-02-23 (9)" src="https://user-images.githubusercontent.com/124333751/220804581-32845421-8d09-4659-8284-611a06af8d0f.png">
+<img width="960" alt="a screenshot of what my skincare survey looks like" src="https://user-images.githubusercontent.com/124333751/220804569-fe3a9679-688c-4653-bdc7-d85110de1a3e.png">
+<img width="960" alt="a screenshot of what my skincare survey looks like" src="https://user-images.githubusercontent.com/124333751/220804581-32845421-8d09-4659-8284-611a06af8d0f.png">
